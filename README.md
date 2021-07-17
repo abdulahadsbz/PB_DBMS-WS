@@ -41,8 +41,4 @@ database
 
 ## TODO
 - make it put the bonds into a CSV file instead of a DB file
-- make the code look better
-- improve info.txt
-- add a error checking function
-- get data from an aditonal source (https://prizebond.net)
-- make a GUI for this (no promises)
+- get data from an secondary source (https://prizebond.net) and compare it to the primary source
