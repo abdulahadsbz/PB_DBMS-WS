@@ -17,13 +17,6 @@ but that will come with some time
 1. install a sqlite3 database searcher
 2. open the PBDB.db file in it
 
-## Why Does The Code Look So Messey
-### Why  
-the code is in a very early stage i will improve it after im done with my other project
-
-### What You Can Do  
-feel free to make a pull request to improve the code or add a feature
-
 ## Why Am I Getting Errors On Some Draws  
 i have put a @ symbol in some draw links in the Info.txt file  
 this is done because those links were not ordered correctly and  
